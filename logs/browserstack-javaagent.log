@@ -43,3 +43,35 @@ Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPack
 05:02:40.812 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
 05:03:04.964 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
 05:03:04.964 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+07:08:32.972 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+07:08:32.974 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.2.1
+07:08:33.059 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/paulcuezon/Documents/MEP3MobileTesting/browserstack.yml
+07:08:33.078 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+07:08:33.150 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://sample.app]
+07:08:33.150 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+07:09:04.280 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+07:09:04.280 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+11:56:57.438 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+11:56:57.440 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.2.1
+11:56:57.520 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/paulcuezon/Documents/MEP3MobileTesting/browserstack.yml
+11:56:57.538 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:56:57.608 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://sample.app]
+11:56:57.608 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:57:06.150 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+11:57:06.150 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+22:56:45.169 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+22:56:45.170 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.2.1
+22:56:45.256 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/paulcuezon/Documents/MEP3MobileTesting/browserstack.yml
+22:56:45.274 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+22:56:45.360 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://b2adb9b77ddd1c1d1bb721b1013211fd2993a50e]
+22:56:45.360 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+22:56:58.152 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+22:56:58.152 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+23:04:49.847 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+23:04:49.848 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.2.1
+23:04:49.933 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/paulcuezon/Documents/MEP3MobileTesting/browserstack.yml
+23:04:49.953 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+23:04:50.033 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://b2adb9b77ddd1c1d1bb721b1013211fd2993a50e]
+23:04:50.033 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+23:05:02.594 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+23:05:02.594 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN

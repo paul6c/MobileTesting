@@ -1,14 +1,8 @@
 userName: paulcuezon_UsbVy2
 accessKey: 2E7KCmD7keop1kC8omxq
 framework: testng
-app: bs://sample.app
+app: bs://b2adb9b77ddd1c1d1bb721b1013211fd2993a50e
 platforms:
   - platformName: android
-    deviceName: Samsung Galaxy S22 Ultra
+    deviceName: Samsung Galaxy S10
     platformVersion: 12.0
-  - platformName: android
-    deviceName: Google Pixel 7 Pro
-    platformVersion: 13.0
-  - platformName: android
-    deviceName: OnePlus 9
-    platformVersion: 11.0
