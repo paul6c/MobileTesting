@@ -4,5 +4,14 @@ framework: testng
 app: bs://b2adb9b77ddd1c1d1bb721b1013211fd2993a50e
 platforms:
   - platformName: android
-    deviceName: Samsung Galaxy S10
+    deviceName: Samsung Galaxy S22 Ultra
     platformVersion: 12.0
+
+# Set 'projectName' to the name of your project. Example, Marketing Website
+projectName: BrowserStack Sample
+
+# Test Observability is an intelligent test reporting & debugging product. It collects data using the SDK. Read more about what data is collected at https://www.browserstack.com/docs/test-observability/references/terms-and-conditions
+# Visit observability.browserstack.com to see your test reports and insights. To disable test observability, specify `testObservability: false` in the key below.
+testObservability: true
+
+source: java:appium-intellij:v1.1.2

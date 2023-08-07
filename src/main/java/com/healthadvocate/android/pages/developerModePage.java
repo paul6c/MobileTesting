@@ -1,25 +1,41 @@
 package com.healthadvocate.android.pages;
 
+import com.healthadvocate.android.base.basePage;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.pagefactory.AndroidBy;
 import io.appium.java_client.pagefactory.AppiumFieldDecorator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 
-public class developerModePage {
+public class developerModePage extends basePage {
 
-    AndroidDriver driver;
 
-    public developerModePage(AndroidDriver driver){
-        this.driver = driver;
-        PageFactory.initElements(new AppiumFieldDecorator(driver),this);
+
+    @FindBy(xpath = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ImageView[1]")
+    private WebElement APIdropdown;
+
+    @FindBy(xpath = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ImageView[2]")
+    private WebElement PortalUrlDropdown;
+
+    @FindBy(xpath = "/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ListView/android.widget.TextView[2]")
+    private WebElement StagingAPI;
+
+    public developerModePage clickAPIdropdown(){
+        WebElement button = wait.until(ExpectedConditions.visibilityOf(APIdropdown));
+        button.click();
+        return this;
+    }
+    public developerModePage clickPortaUrlDropdown(){
+        WebElement button = wait.until(ExpectedConditions.visibilityOf(PortalUrlDropdown));
+        button.click();
+        return this;
     }
 
-    @AndroidBy(className = "android.widget.ImageView")
-    WebElement dropdown;
-
-    public void clickDropdown(){
-        dropdown.click();
+    public developerModePage selectStaging(){
+        WebElement staging = wait.until(ExpectedConditions.visibilityOf(StagingAPI));
+        return this;
     }
 }

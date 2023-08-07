@@ -75,3 +75,175 @@ Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPack
 23:04:50.033 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
 23:05:02.594 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
 23:05:02.594 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+03:45:48.190 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+03:45:48.192 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.2.1
+03:45:48.283 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/paulcuezon/Documents/MEP3MobileTesting/browserstack.yml
+03:45:48.301 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+03:45:48.387 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://b2adb9b77ddd1c1d1bb721b1013211fd2993a50e]
+03:45:48.387 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+03:45:56.318 [main] INFO  c.b.config.BrowserStackConfig - INFO
+03:46:00.336 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/nnbmumjthfsbr5zc17o9aykpka3o1kiavqde8grs to view build report, insights, and many more debugging information all at one place!
+
+03:46:00.339 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+03:46:00.339 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+03:46:52.192 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+03:46:52.193 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.2.1
+03:46:52.274 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/paulcuezon/Documents/MEP3MobileTesting/browserstack.yml
+03:46:52.293 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+03:46:52.365 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://b2adb9b77ddd1c1d1bb721b1013211fd2993a50e]
+03:46:52.365 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+03:47:09.896 [main] INFO  c.b.config.BrowserStackConfig - INFO
+03:47:14.356 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ghmqwacclk4bza0yzc8ecxhtuptv8z2fxwjhutut to view build report, insights, and many more debugging information all at one place!
+
+03:47:14.361 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+03:47:14.362 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+03:51:46.639 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+03:51:46.640 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.2.1
+03:51:46.714 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/paulcuezon/Documents/MEP3MobileTesting/browserstack.yml
+03:51:46.731 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+03:51:46.733 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+03:51:46.799 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://sample.app]
+03:51:46.799 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+03:51:53.973 [main] INFO  c.b.config.BrowserStackConfig - INFO
+03:51:57.719 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/fvi9lofihlqi080vv3798ggfk5askemwzb64uw6k to view build report, insights, and many more debugging information all at one place!
+
+03:51:57.719 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+03:51:57.719 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+03:53:18.705 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+03:53:18.707 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.2.1
+03:53:18.799 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/paulcuezon/Documents/MEP3MobileTesting/browserstack.yml
+03:53:18.817 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+03:53:18.819 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+03:53:18.890 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://sample.app]
+03:53:18.890 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+03:53:26.146 [main] INFO  c.b.config.BrowserStackConfig - INFO
+03:53:30.186 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ulrtxhq6zsjnuoixuhw2jvevbhaycverme8aop92 to view build report, insights, and many more debugging information all at one place!
+
+03:53:30.186 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+03:53:30.187 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+03:56:21.599 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+03:56:21.600 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.2.1
+03:56:21.685 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/paulcuezon/Documents/MEP3MobileTesting/browserstack.yml
+03:56:21.706 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+03:56:21.708 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+03:56:21.793 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://sample.app]
+03:56:21.793 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+03:56:28.281 [main] INFO  c.b.config.BrowserStackConfig - INFO
+03:56:32.099 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/965rlwer6p3zqpq0xp1cwa6qqvgk0sjykaqjwn9e to view build report, insights, and many more debugging information all at one place!
+
+03:56:32.100 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+03:56:32.100 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+04:04:46.338 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+04:04:46.339 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.2.1
+04:04:46.424 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/paulcuezon/Documents/MEP3MobileTesting/browserstack.yml
+04:04:46.446 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+04:04:46.449 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+04:04:46.521 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://b2adb9b77ddd1c1d1bb721b1013211fd2993a50e]
+04:04:46.521 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+04:04:54.066 [main] INFO  c.b.config.BrowserStackConfig - INFO
+04:05:23.003 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/equ6irihnjf8nb7s0uyazj4f7qs9djnlwrkcogtp to view build report, insights, and many more debugging information all at one place!
+
+04:05:23.003 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+04:05:23.003 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+04:09:45.328 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+04:09:45.329 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.2.0
+04:09:45.413 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/paulcuezon/Documents/MEP3MobileTesting/browserstack.yml
+04:09:45.432 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+04:09:45.435 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+04:09:45.505 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://b2adb9b77ddd1c1d1bb721b1013211fd2993a50e]
+04:09:45.505 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+04:09:53.763 [main] INFO  c.b.config.BrowserStackConfig - INFO
+04:10:22.728 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/6awkjtcjnq6joxdxz5lejpysq5jbcjizw5iewvxr to view build report, insights, and many more debugging information all at one place!
+
+04:10:22.729 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+04:10:22.729 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+04:14:19.982 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+04:14:19.983 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.2.0
+04:14:20.066 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/paulcuezon/Documents/MEP3MobileTesting/browserstack.yml
+04:14:20.085 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+04:14:20.087 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+04:14:20.156 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://b2adb9b77ddd1c1d1bb721b1013211fd2993a50e]
+04:14:20.157 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+04:14:32.329 [main] INFO  c.b.config.BrowserStackConfig - INFO
+04:15:02.487 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/tl08jtn9pskbqseennm05yyrza0ucogfbmx4mznk to view build report, insights, and many more debugging information all at one place!
+
+04:15:02.488 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+04:15:02.488 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+04:17:37.968 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+04:17:37.969 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.2.0
+04:17:38.055 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/paulcuezon/Documents/MEP3MobileTesting/browserstack.yml
+04:17:38.077 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+04:17:38.080 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+04:17:38.152 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://b2adb9b77ddd1c1d1bb721b1013211fd2993a50e]
+04:17:38.152 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+04:17:47.034 [main] INFO  c.b.config.BrowserStackConfig - INFO
+04:18:18.178 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/j3sf1ss0xke9ittt6m0srz4tku7fasqovmpesrip to view build report, insights, and many more debugging information all at one place!
+
+04:18:18.179 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+04:18:18.179 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+04:23:13.794 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+04:23:13.795 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.2.0
+04:23:13.882 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/paulcuezon/Documents/MEP3MobileTesting/browserstack.yml
+04:23:13.904 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+04:23:13.907 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+04:23:13.977 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://b2adb9b77ddd1c1d1bb721b1013211fd2993a50e]
+04:23:13.977 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+04:23:25.484 [main] INFO  c.b.config.BrowserStackConfig - INFO
+04:23:57.539 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/2c5btbckruljg60hbyhxlqvvx6ysjqbrchfrap26 to view build report, insights, and many more debugging information all at one place!
+
+04:23:57.540 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+04:23:57.540 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+04:29:18.326 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+04:29:18.327 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.2.0
+04:29:18.412 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/paulcuezon/Documents/MEP3MobileTesting/browserstack.yml
+04:29:18.433 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+04:29:18.435 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+04:29:18.504 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://b2adb9b77ddd1c1d1bb721b1013211fd2993a50e]
+04:29:18.504 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+04:29:27.674 [main] INFO  c.b.config.BrowserStackConfig - INFO
+04:30:01.255 [quit@0] ERROR c.browserstack.utils.UtilityMethods - Mark Session Status failed - org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.4.1', java.version: '20.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, executeScript {script=browserstack_executor: {"action":"setSessionStatus","arguments":{"reason":"Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: \/hierarchy\/android.widget.FrameLayout\/android.widget.LinearLayout\/android.widget.FrameLayout\/android.widget.LinearLayout\/android.widget.FrameLayout\/android.view.ViewGroup\/android.view.ViewGroup\/android.widget.ImageView[2]' (tried for 10 second(s) with 500 milliseconds interval)","status":"failed"}}, args=[]}]
+Capabilities {appium:appActivity: com.healthadvocate.ui.ApiCo..., appium:appPackage: com.healthadvocate.ui.staging, appium:automationName: uiautomator2, appium:chromedriverPort: 18081, appium:chromedriverPorts: [[18111, 18121]], appium:databaseEnabled: false, appium:desired: {appActivity: com.healthadvocate.ui.ApiCo..., appPackage: com.healthadvocate.ui.staging, automationName: uiautomator2, bstack:options: {appiumVersion: 1.17.0, hostName: Pauls-MacBook-Pro.local}, chromedriverPort: 18081, chromedriverPorts: [[18111, 18121]], deviceName: Android, disableSuppressAccessibilityService: true, goog:chromeOptions: {}, nativeWebScreenshot: true, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8201, udid: R5CT30ZSWWM}, appium:deviceApiLevel: 31, appium:deviceManufacturer: samsung, appium:deviceModel: SM-S908E, appium:deviceName: R5CT30ZSWWM, appium:deviceScreenDensity: 450, appium:deviceScreenSize: 1080x2316, appium:deviceUDID: R5CT30ZSWWM, appium:disableSuppressAccessibilityService: true, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:nativeWebScreenshot: true, appium:networkConnectionEnabled: true, appium:newCommandTimeout: 0, appium:optimalHubUrl: hub-aps.browserstack.com, appium:pixelRatio: 2.8125, appium:platformVersion: 12, appium:skipServerInstallation: true, appium:statBarHeight: 75, appium:systemPort: 8201, appium:takesScreenshot: true, appium:udid: R5CT30ZSWWM, appium:viewportRect: {height: 2031, left: 0, top: 75, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, bstack:options: {appiumVersion: 1.17.0, hostName: Pauls-MacBook-Pro.local}, goog:chromeOptions: {}, platformName: ANDROID}
+04:30:01.879 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/7dgqwspuqrhorcnfz5wz8q3dbcody3qasunv2jpf to view build report, insights, and many more debugging information all at one place!
+
+04:30:01.880 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+04:30:01.880 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+04:45:00.273 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+04:45:00.274 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.2.0
+04:45:00.353 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/paulcuezon/Documents/MEP3MobileTesting/browserstack.yml
+04:45:00.370 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+04:45:00.373 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+04:45:00.439 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://b2adb9b77ddd1c1d1bb721b1013211fd2993a50e]
+04:45:00.440 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+04:45:09.073 [main] INFO  c.b.config.BrowserStackConfig - INFO
+04:45:47.577 [quit@0] ERROR c.browserstack.utils.UtilityMethods - Mark Session Status failed - org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.4.1', java.version: '20.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, executeScript {script=browserstack_executor: {"action":"setSessionStatus","arguments":{"reason":"Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: \/hierarchy\/android.widget.FrameLayout\/android.widget.LinearLayout\/android.widget.FrameLayout\/android.widget.LinearLayout\/android.widget.FrameLayout\/android.view.ViewGroup\/android.view.ViewGroup\/android.widget.ImageView[1]' (tried for 10 second(s) with 500 milliseconds interval)","status":"failed"}}, args=[]}]
+Capabilities {appium:appActivity: com.healthadvocate.ui.ApiCo..., appium:appPackage: com.healthadvocate.ui.staging, appium:automationName: uiautomator2, appium:chromedriverPort: 18081, appium:chromedriverPorts: [[18111, 18121]], appium:databaseEnabled: false, appium:desired: {appActivity: com.healthadvocate.ui.ApiCo..., appPackage: com.healthadvocate.ui.staging, automationName: uiautomator2, bstack:options: {appiumVersion: 1.17.0, hostName: Pauls-MacBook-Pro.local}, chromedriverPort: 18081, chromedriverPorts: [[18111, 18121]], deviceName: Android, disableSuppressAccessibilityService: true, goog:chromeOptions: {}, nativeWebScreenshot: true, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8201, udid: R5CT30MKAMD}, appium:deviceApiLevel: 31, appium:deviceManufacturer: samsung, appium:deviceModel: SM-S908E, appium:deviceName: R5CT30MKAMD, appium:deviceScreenDensity: 450, appium:deviceScreenSize: 1080x2316, appium:deviceUDID: R5CT30MKAMD, appium:disableSuppressAccessibilityService: true, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:nativeWebScreenshot: true, appium:networkConnectionEnabled: true, appium:newCommandTimeout: 0, appium:optimalHubUrl: hub-aps.browserstack.com, appium:pixelRatio: 2.8125, appium:platformVersion: 12, appium:skipServerInstallation: true, appium:statBarHeight: 75, appium:systemPort: 8201, appium:takesScreenshot: true, appium:udid: R5CT30MKAMD, appium:viewportRect: {height: 2031, left: 0, top: 75, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, bstack:options: {appiumVersion: 1.17.0, hostName: Pauls-MacBook-Pro.local}, goog:chromeOptions: {}, platformName: ANDROID}
+04:45:48.137 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/f9sgicdqwaii7ma3o47ulpak4dfhswk3djaoedea to view build report, insights, and many more debugging information all at one place!
+
+04:45:48.138 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+04:45:48.138 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+04:50:27.742 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+04:50:27.743 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.2.0
+04:50:27.835 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/paulcuezon/Documents/MEP3MobileTesting/browserstack.yml
+04:50:27.853 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+04:50:27.856 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+04:50:27.928 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://b2adb9b77ddd1c1d1bb721b1013211fd2993a50e]
+04:50:27.928 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+04:50:35.383 [main] INFO  c.b.config.BrowserStackConfig - INFO
+04:51:12.291 [quit@0] ERROR c.browserstack.utils.UtilityMethods - Mark Session Status failed - org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.4.1', java.version: '20.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, executeScript {script=browserstack_executor: {"action":"setSessionStatus","arguments":{"reason":"Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: \/hierarchy\/android.widget.FrameLayout\/android.widget.LinearLayout\/android.widget.FrameLayout\/android.widget.LinearLayout\/android.widget.FrameLayout\/android.view.ViewGroup\/android.view.ViewGroup\/android.widget.ImageView[2]' (tried for 10 second(s) with 500 milliseconds interval)","status":"failed"}}, args=[]}]
+Capabilities {appium:appActivity: com.healthadvocate.ui.ApiCo..., appium:appPackage: com.healthadvocate.ui.staging, appium:automationName: uiautomator2, appium:chromedriverPort: 18080, appium:chromedriverPorts: [[18100, 18110]], appium:databaseEnabled: false, appium:desired: {appActivity: com.healthadvocate.ui.ApiCo..., appPackage: com.healthadvocate.ui.staging, automationName: uiautomator2, bstack:options: {appiumVersion: 1.17.0, hostName: Pauls-MacBook-Pro.local}, chromedriverPort: 18080, chromedriverPorts: [[18100, 18110]], deviceName: Android, disableSuppressAccessibilityService: true, goog:chromeOptions: {}, nativeWebScreenshot: true, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8200, udid: R5CT30MKA9T}, appium:deviceApiLevel: 31, appium:deviceManufacturer: samsung, appium:deviceModel: SM-S908E, appium:deviceName: R5CT30MKA9T, appium:deviceScreenDensity: 450, appium:deviceScreenSize: 1080x2316, appium:deviceUDID: R5CT30MKA9T, appium:disableSuppressAccessibilityService: true, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:nativeWebScreenshot: true, appium:networkConnectionEnabled: true, appium:newCommandTimeout: 0, appium:optimalHubUrl: hub-aps.browserstack.com, appium:pixelRatio: 2.8125, appium:platformVersion: 12, appium:skipServerInstallation: true, appium:statBarHeight: 75, appium:systemPort: 8200, appium:takesScreenshot: true, appium:udid: R5CT30MKA9T, appium:viewportRect: {height: 2031, left: 0, top: 75, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, bstack:options: {appiumVersion: 1.17.0, hostName: Pauls-MacBook-Pro.local}, goog:chromeOptions: {}, platformName: ANDROID}
+04:51:12.875 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ki6q5nt01xfyxyeby1mpb9glbuisok88rsgtxriv to view build report, insights, and many more debugging information all at one place!
+
+04:51:12.876 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+04:51:12.876 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN

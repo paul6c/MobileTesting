@@ -3,25 +3,25 @@ package com.healthadvocate.android.base;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.options.UiAutomator2Options;
+import io.appium.java_client.pagefactory.AndroidBy;
+import io.appium.java_client.pagefactory.AppiumElementLocatorFactory;
+import io.appium.java_client.pagefactory.AppiumFieldDecorator;
 import org.openqa.selenium.MutableCapabilities;
+import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
 
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.time.Duration;
 
 public class basePage {
-    public AppiumDriver driver;
+    public WebDriverWait wait;
 
-    @BeforeMethod(alwaysRun = true)
-    public  void intiliazeDriver() throws Exception {
-            MutableCapabilities capabilities = new UiAutomator2Options();
-            driver = new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"),capabilities);
-    }
-
-    @AfterMethod(alwaysRun=true)
-    public void tearDown() throws Exception {
-        driver.quit();
+    public basePage(){
+        PageFactory.initElements(DriverManager.getDriver(),this);
+        wait = new WebDriverWait(DriverManager.getDriver(), Duration.ofSeconds(10));
     }
 }
